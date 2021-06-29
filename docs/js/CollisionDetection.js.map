@@ -1,0 +1,1 @@
+{"version":3,"file":"CollisionDetection.js","sourceRoot":"","sources":["../../dev/CollisionDetection.ts"],"names":[],"mappings":"AAAA,MAAM,UAAU,kBAAkB,CAAC,MAAe,EAAC,aAAsB;IACjE,OAAO,CACL,MAAM,CAAC,IAAI,IAAI,aAAa,CAAC,KAAK;QAClC,MAAM,CAAC,GAAG,IAAI,aAAa,CAAC,MAAM;QAClC,aAAa,CAAC,IAAI,IAAI,MAAM,CAAC,KAAK;QAClC,aAAa,CAAC,GAAG,IAAI,MAAM,CAAC,MAAM,CACnC,CAAC;AACV,CAAC"}
